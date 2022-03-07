@@ -68,3 +68,6 @@ IT (From Professor Davis):
 - Say what the resume can't say
   - Family relationships
   - Personal info that connects to the company/city/industry
+
+## Helpful Resources
+- [LinkedIn Job Report Creator](https://github.com/hayitsdavid/linkedin-job-report-creator)
