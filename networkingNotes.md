@@ -41,3 +41,17 @@ IT:
 	- Go to the chapter for the specific location you want to work
 	- Contact the president
 	- Ask them who they think you should talk to
+
+### Resume and Cover Letter
+- Use the resume as a display what you know
+
+**Volunteering**
+- Volunteer at firms that allow you to do what you want to do
+
+**Resume Critiques**
+- If you've worked at a competitor, you have a huge advantage
+- Address
+  - If you live in the area, put your address
+  - If know someone that lives there (and you do not live there), put their address
+  - Otherwise, do not put the address
+- Put the exact job title within the resume
