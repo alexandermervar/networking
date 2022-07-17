@@ -6,8 +6,9 @@ IT (From Professor Davis):
 - Boston
 
 ### Email Notes:
+When a conversation generates a contact that you should reach out to, it is best to use the following template when reaching out through email.
 - Put your contact’s name in front
-	- “Jane Doe said I should contact you”
+	- “[Intern] 1:1 - Jane Doe Referred Me to You to Listen/Learn”
 - CC contact
 	- CC: Jane Doe
 - Topics to cover
